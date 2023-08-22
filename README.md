@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <p align="center">
   <a href="https://www.lawrencejbho.com/linktree">
     Linktree
@@ -22,3 +22,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lawrencejbho&style=flat-square&color=blue" alt=""/>
 </p>
+
+-->
